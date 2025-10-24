@@ -1,0 +1,71 @@
+{
+  "ts_ms": 1761199460701,
+  "duration_ms": 34209,
+  "items": [
+    {
+      "uid": "00100201",
+      "doc": "01-中华人民共和国宪法（2018年修正文本）.txt",
+      "difficulty": "4",
+      "type": "single_choice",
+      "field": "宪法与根本制度",
+      "is_correct": false,
+      "answered": true,
+      "question": "根据我国宪法序言的规定，关于国家根本任务的表述，下列哪一选项是正确的？",
+      "options": "A. 国家根本任务是实现共产主义社会; B. 国家根本任务是沿着中国特色社会主义道路，集中力量进行社会主义现代化建设; C. 国家根本任务是维护世界和平与发展; D. 国家根本任务是建立完善的市场经济体制",
+      "correct_answer": "B",
+      "user_answer": "C. 国家根本任务是维护世界和平与发展"
+    },
+    {
+      "uid": "00100202",
+      "doc": "01-中华人民共和国宪法（2018年修正文本）.txt",
+      "difficulty": "4",
+      "type": "single_choice",
+      "field": "宪法与根本制度",
+      "is_correct": false,
+      "answered": true,
+      "question": "根据我国宪法序言的规定，关于国家根本任务的表述，下列哪一选项是正确的？",
+      "options": "A. 国家根本任务是实现共产主义社会; B. 国家根本任务是沿着中国特色社会主义道路，集中力量进行社会主义现代化建设; C. 国家根本任务是维护世界和平与发展; D. 国家根本任务是建立完善的市场经济体系",
+      "correct_answer": "B",
+      "user_answer": "C. 国家根本任务是维护世界和平与发展"
+    },
+    {
+      "uid": "00100103",
+      "doc": "01-中华人民共和国宪法（2018年修正文本）.txt",
+      "difficulty": "4",
+      "type": "multiple_choice",
+      "field": "宪法与根本制度",
+      "is_correct": false,
+      "answered": true,
+      "question": "根据《中华人民共和国宪法》关于国家机构的规定，以下哪些机构属于中央国家机构？\na. 全国人民代表大会\nb. 国务院\nc. 地方各级人民政府\nd. 民族自治地方的自治机关",
+      "options": "A. a和b; B. a、b和c; C. b、c和d; D. a、b和d",
+      "correct_answer": "A",
+      "user_answer": "B. a、b和c"
+    },
+    {
+      "uid": "00100203",
+      "doc": "01-中华人民共和国宪法（2018年修正文本）.txt",
+      "difficulty": "5",
+      "type": "single_choice",
+      "field": "宪法与根本制度",
+      "is_correct": false,
+      "answered": true,
+      "question": "根据《中华人民共和国宪法》序言，国家的根本任务是沿着中国特色社会主义道路，集中力量进行______建设。",
+      "options": "A. 社会主义现代化; B. 社会主义工业化; C. 社会主义民主政治; D. 社会主义法治国家",
+      "correct_answer": "A",
+      "user_answer": "C. 社会主义民主政治"
+    },
+    {
+      "uid": "00100102",
+      "doc": "01-中华人民共和国宪法（2018年修正文本）.txt",
+      "difficulty": "4",
+      "type": "single_choice",
+      "field": "宪法与根本制度",
+      "is_correct": false,
+      "answered": true,
+      "question": "根据《中华人民共和国宪法》的规定，国家机构包括全国人民代表大会、中华人民共和国主席、国务院、中央军事委员会、地方各级人民代表大会和地方各级人民政府、民族自治地方的自治机关、监察委员会以及______和人民检察院。",
+      "options": "A. 公安机关; B. 人民法院; C. 司法机关; D. 审判机关",
+      "correct_answer": "B",
+      "user_answer": "A. 公安机关"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "ts_ms": 1761296507804,
+  "duration_ms": 44430,
+  "items": [
+    {
+      "uid": "53401201",
+      "doc": "Regulations on the Supervision and Administration of Special Equipment Production Units' Implementation of Primary Responsibilities for Quality and Safety.txt",
+      "difficulty": "4",
+      "type": "true_false",
+      "field": "Administrative Law and Procedure",
+      "is_correct": false,
+      "answered": true,
+      "question": "Regarding the legal liabilities of special equipment production units, determine whether the following statements are correct: \n\nStatement 1: Pressure vessel production units failing to appoint a quality and safety director as required, and refusing to rectify after being ordered to do so, shall be fined between five thousand yuan and fifty thousand yuan. \n\nStatement 2: The principal responsible person of a cylinder production unit bears primary responsibility for the quality and safety of its cylinders and shall establish and implement a long-term mechanism for fulfilling the principal responsibility for cylinder quality and safety.",
+      "options": "A. Both statements are correct; B. Only Statement 1 is correct; C. Only Statement 2 is correct; D. Neither statement is correct",
+      "correct_answer": "A",
+      "user_answer": "False"
+    },
+    {
+      "uid": "31014804",
+      "doc": "47 Civil Code of the People's Republic of China.txt",
+      "difficulty": "4",
+      "type": "single_choice",
+      "field": "Fundamentals of Civil and Commercial Law",
+      "is_correct": false,
+      "answered": true,
+      "question": "In a commission agency contract, when the agent sells the entrusted goods at a price higher than that specified by the principal, which of the following options regarding the attribution of remuneration and additional profits complies with the provisions of China's Civil Code? ",
+      "options": "A. The agent has no right to request increased remuneration, and the additional profit belongs to the agent; B. The agent may request increased remuneration, but the additional profit belongs to the principal; C. The agent has no right to request increased remuneration, but the additional profit belongs to the principal; D. The agent may request an increase in remuneration, and the additional benefits shall belong to the agent",
+      "correct_answer": "B",
+      "user_answer": "C. The agent has no right to request increased remuneration, but the additional profit belongs to the principal"
+    },
+    {
+      "uid": "56800602",
+      "doc": "Food Safety Sampling and Inspection Management Measures.txt",
+      "difficulty": "4",
+      "type": "multiple_choice",
+      "field": "Administrative Law and Procedure",
+      "is_correct": false,
+      "answered": true,
+      "question": "According to relevant regulations on food safety sampling and inspection, which of the following options correctly describes the testing institution's obligation regarding the preservation of backup samples for re-inspection? ",
+      "options": "A. Samples with a qualified inspection conclusion shall be retained for six months from the date of the conclusion.; B. Samples with a non-qualified inspection conclusion shall be retained for three months from the date of the conclusion.; C. Samples with a qualified inspection conclusion and a remaining shelf life of less than three months shall be retained until the end of their shelf life.; D. Samples with an unsatisfactory test result and a remaining shelf life of less than 3 months shall be retained until the end of their shelf life.",
+      "correct_answer": "C",
+      "user_answer": "B. Samples with a non-qualified inspection conclusion shall be retained for three months from the date of the conclusion."
+    },
+    {
+      "uid": "00301105",
+      "doc": "04-Criminal Law of the People's Republic of China.txt",
+      "difficulty": "4",
+      "type": "fill_blank",
+      "field": "Criminal Law and Liability",
+      "is_correct": false,
+      "answered": true,
+      "question": "According to the provisions on the death penalty in the Criminal Law of the People's Republic of China, for criminals who should be sentenced to death but do not require immediate execution, the death penalty may be imposed with a concurrent declaration of ______.",
+      "options": "A. A two-year reprieve; B. a three-year suspension of execution; C. Immediate execution; D. Life imprisonment",
+      "correct_answer": "A",
+      "user_answer": "123"
+    },
+    {
+      "uid": "07300204",
+      "doc": "13-Administrative Discipline Law for Public Officials of the People's Republic of China.txt",
+      "difficulty": "4",
+      "type": "true_false",
+      "field": "Administrative Law and Procedure",
+      "is_correct": false,
+      "answered": true,
+      "question": "Regarding the provisions of the Law of the People's Republic of China on Administrative Disciplinary Actions for Public Officials, which of the following statements is correct?\n\nStatement 1: The period for a warning disciplinary action is six months, calculated from the date the disciplinary decision is made. \n\nStatement 2: A public official voluntarily confessing to illegal acts for which they should receive administrative disciplinary action constitutes a circumstance where the disciplinary action may be mitigated or reduced.",
+      "options": "A. Both statements are correct; B. Only Statement 1 is correct; C. Only Statement 2 is correct; D. Neither statement is correct",
+      "correct_answer": "C",
+      "user_answer": "True"
+    }
+  ]
+}

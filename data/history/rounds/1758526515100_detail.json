@@ -1,0 +1,71 @@
+{
+  "ts_ms": 1758526515100,
+  "duration_ms": 13932,
+  "items": [
+    {
+      "uid": "0011004001",
+      "doc": "37-变电站布置设计技术规程",
+      "difficulty": "L2",
+      "type": "true_false",
+      "field": "变电一次",
+      "is_correct": false,
+      "answered": true,
+      "question": "根据《变电站布置设计技术规程》（基于文件名推断），当继电器室布置在户外配电装置场内时，其与户外配电装置的间距完全由工艺专业自行确定，无需遵循国家或行业相关规范。",
+      "options": null,
+      "correct_answer": "False",
+      "user_answer": "正确 (True)"
+    },
+    {
+      "uid": "0011004005",
+      "doc": "37-变电站布置设计技术规程",
+      "difficulty": "L2",
+      "type": "true_false",
+      "field": "变电一次",
+      "is_correct": true,
+      "answered": true,
+      "question": "根据GB 50073-2013《城市区域环境振动测量方法》和变电站设计规范，变电站建筑物（包括主控楼、GIS楼等）的防火间距应按相邻两建筑物外墙的最近距离计算，若外墙存在凸出的燃烧构件，则应从凸出部分外缘计算。",
+      "options": null,
+      "correct_answer": "True",
+      "user_answer": "正确 (True)"
+    },
+    {
+      "uid": "0011005000",
+      "doc": "37-变电站布置设计技术规程",
+      "difficulty": "L2",
+      "type": "true_false",
+      "field": "变电一次",
+      "is_correct": true,
+      "answered": true,
+      "question": "根据DL/T 522-2021《变电站布置设计技术规程》的规定，为防止油浸变压器或可燃介质电容器发生事故时火灾蔓延和人员伤亡，应设置防火间距，并限制其周围的门窗数量及开启方式。",
+      "options": null,
+      "correct_answer": "True",
+      "user_answer": "正确 (True)"
+    },
+    {
+      "uid": "0011005005",
+      "doc": "37-变电站布置设计技术规程",
+      "difficulty": "L2",
+      "type": "true_false",
+      "field": "变电一次",
+      "is_correct": true,
+      "answered": true,
+      "question": "根据《变电站布置设计技术规程》（DL/T 522-2019），当相邻两座建筑物的外墙均为非燃烧体，且两面外墙均无门窗洞口及外露的燃烧屋檐时，其防火间距可以减少25%。",
+      "options": null,
+      "correct_answer": "True",
+      "user_answer": "正确 (True)"
+    },
+    {
+      "uid": "0011006001",
+      "doc": "37-变电站布置设计技术规程",
+      "difficulty": "L3",
+      "type": "true_false",
+      "field": "变电一次",
+      "is_correct": true,
+      "answered": true,
+      "question": "根据《变电站布置设计技术规程》的要求，在山区、丘陵地区建设变电站时，为了降低工程成本并保证边坡稳定，应优先采用阶梯式布置，并在满足工艺要求的前提下，尽量减少大规模的土石方工程（深挖高填）。",
+      "options": null,
+      "correct_answer": "True",
+      "user_answer": "正确 (True)"
+    }
+  ]
+}

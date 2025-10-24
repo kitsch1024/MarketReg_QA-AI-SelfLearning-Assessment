@@ -1,0 +1,71 @@
+{
+  "ts_ms": 1761271935899,
+  "duration_ms": 28185,
+  "items": [
+    {
+      "uid": "17100503",
+      "doc": "1企业信息公示暂行条例.txt",
+      "difficulty": "4",
+      "type": "multiple_choice",
+      "field": "经济法与市场规制",
+      "is_correct": false,
+      "answered": true,
+      "question": "根据企业信息公示相关法律制度，下列哪些情形会导致企业被列入经营异常名录？\na. 企业未按照法定期限公示年度报告\nb. 企业公示信息隐瞒真实情况、弄虚作假\nc. 企业未按照工商行政管理部门责令的期限公示有关企业信息\nd. 企业被列入经营异常名录满3年未履行公示义务",
+      "options": "A. a、b和c; B. a和b; C. b、c和d; D. a、b、c和d",
+      "correct_answer": "A",
+      "user_answer": "B. a和b"
+    },
+    {
+      "uid": "23600405",
+      "doc": "247互联网信息服务算法推荐管理规定.txt",
+      "difficulty": "4",
+      "type": "multiple_choice",
+      "field": "科技与知识产权",
+      "is_correct": true,
+      "answered": true,
+      "question": "根据《互联网信息服务算法推荐管理规定》关于用户权益保护的要求，算法推荐服务提供者应当向用户提供哪些具体的权利保障？\na. 提供不针对个人特征的选项或便捷关闭服务的选项\nb. 提供选择或删除用于算法推荐服务的个人特征标签的功能\nc. 对未成年人开发专用模式并提供适合其特点的服务\nd. 对老年人提供智能化适老服务并开展反诈骗信息处置",
+      "options": "A. a和b; B. a、c和d; C. b和c; D. a、b、c和d",
+      "correct_answer": "D",
+      "user_answer": "D. a、b、c和d"
+    },
+    {
+      "uid": "06700403",
+      "doc": "127加油站计量监督管理办法.txt",
+      "difficulty": "4",
+      "type": "multiple_choice",
+      "field": "行政法与程序",
+      "is_correct": true,
+      "answered": true,
+      "question": "根据加油站计量监督管理相关规定，下列哪些情形属于应当责令经营者赔偿消费者损失的情形？\na. 违反规定使用未经检定、超过检定周期或者经检定不合格的计量器具\nb. 破坏计量器具铅封并擅自改动燃油加油机\nc. 成品油零售量的结算值与实际值之差超过国家规定允许误差\n\nd. 从事加油站计量监督管理的国家工作人员滥用职权",
+      "options": "A. a和b; B. a、b和c; C. b和c; D. a、b和d",
+      "correct_answer": "B",
+      "user_answer": "B. a、b和c"
+    },
+    {
+      "uid": "12300304",
+      "doc": "161表格格式和代码标准（第2部分第1分部）.txt",
+      "difficulty": "4",
+      "type": "single_choice",
+      "field": "科技与知识产权",
+      "is_correct": false,
+      "answered": true,
+      "question": "根据我国标准化管理的相关规定，关于国家知识产权局在框线式表格格式标准制定与实施中的职责，下列哪一选项是正确的？",
+      "options": "A. 国家知识产权局标准化委员会负责编制框线式表格格式并解释规范性术语; B. 国家知识产权局标准化委员会监督标准的实施并对改进建议进行评审; C. 标准管理者有权直接制定新标准代替现行标准而无须评审; D. 国家知识产权局颁布标准后，标准管理者可单方面决定标准的变更事宜",
+      "correct_answer": "B",
+      "user_answer": "C. 标准管理者有权直接制定新标准代替现行标准而无须评审"
+    },
+    {
+      "uid": "13601902",
+      "doc": "174药品经营质量管理规范.txt",
+      "difficulty": "4",
+      "type": "single_choice",
+      "field": "经济法与市场规制",
+      "is_correct": false,
+      "answered": true,
+      "question": "根据药品经营质量管理规范，在药品出库复核过程中，发现下列哪种情况时应当禁止出库并报告质量管理部门处理？",
+      "options": "A. 药品包装箱外观略有磨损但不影响内部药品; B. 药品标签字迹因运输轻微磨损但主要内容仍可辨认; C. 药品包装内有明显异常响动或液体渗漏现象; D. 药品距离有效期还有一个月但客户急需使用",
+      "correct_answer": "C",
+      "user_answer": "B. 药品标签字迹因运输轻微磨损但主要内容仍可辨认"
+    }
+  ]
+}

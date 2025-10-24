@@ -1,0 +1,71 @@
+{
+  "ts_ms": 1761294146249,
+  "duration_ms": 14711,
+  "items": [
+    {
+      "uid": "23600102",
+      "doc": "247 Regulations on the Management of Algorithm Recommendation in Internet Information Services.txt",
+      "difficulty": "4",
+      "type": "single_choice",
+      "field": "Technology and Intellectual Property",
+      "is_correct": true,
+      "answered": true,
+      "question": "According to China's legal provisions on the regulation of algorithmic recommendation services, which of the following options accurately describes the fundamental principles that providers of algorithmic recommendation services should adhere to?",
+      "options": "A. Should adhere to the principles of prioritising efficiency, technological innovation, free competition and maximising benefits; B. Should adhere to the principles of fairness and impartiality, openness and transparency, scientific rationality and good faith; C. shall adhere to the principles of government leadership, strict regulation, unified standards, and risk avoidance; D. shall adhere to the principles of user supremacy, complete openness, autonomous choice, and boundless innovation",
+      "correct_answer": "B",
+      "user_answer": "B. Should adhere to the principles of fairness and impartiality, openness and transparency, scientific rationality and good faith"
+    },
+    {
+      "uid": "48100404",
+      "doc": "Wildlife Protection Law of the People's Republic of China.txt",
+      "difficulty": "4",
+      "type": "single_choice",
+      "field": "Resource and Environmental Law",
+      "is_correct": false,
+      "answered": true,
+      "question": "According to China's wildlife protection laws, during the environmental impact assessment approval process for construction projects, the consultation procedures for wildlife of different protection levels are as follows. Which of the following options is correct? ",
+      "options": "A. Where national key protected wildlife is involved, the opinion of the provincial wildlife protection authority shall be sought; B. Where locally key protected wildlife is involved, the opinion of the wildlife protection authority of the State Council shall be sought; C. Where national key protected wildlife is involved, the opinion of the wildlife protection authority of the State Council shall be sought; D. Where locally key protected wildlife is involved, no consultation with any wildlife protection authority is required.",
+      "correct_answer": "C",
+      "user_answer": "A. Where national key protected wildlife is involved, the opinion of the provincial wildlife protection authority shall be sought"
+    },
+    {
+      "uid": "53000904",
+      "doc": "Measures for the Administration of Voluntary Greenhouse Gas Emission Reduction Trading (Trial).txt",
+      "difficulty": "4",
+      "type": "single_choice",
+      "field": "Administrative Law and Procedure",
+      "is_correct": false,
+      "answered": true,
+      "question": "According to China's regulatory requirements for voluntary greenhouse gas emission reduction verification and validation bodies, which of the following statements regarding the subject of legal liability is correct? ",
+      "options": "A. Verification and validation bodies are only responsible for the authenticity of the verification reports and validation reports they issue; B. Verification and validation bodies shall bear legal responsibility for the compliance, authenticity, and accuracy of the verification reports and validation reports they issue; C. Verification and validation bodies are only responsible for the authenticity of their annual work reports; D. The legal liability of verification and validation bodies may be assumed by their commissioned technical service providers",
+      "correct_answer": "B",
+      "user_answer": "D. The legal liability of verification and validation bodies may be assumed by their commissioned technical service providers"
+    },
+    {
+      "uid": "37001104",
+      "doc": "6 Food Safety Law of the People's Republic of China.txt",
+      "difficulty": "4",
+      "type": "single_choice",
+      "field": "Administrative Law and Procedure",
+      "is_correct": false,
+      "answered": true,
+      "question": "According to the Food Safety Law's provisions prohibiting food production and operation, which of the following scenarios constitutes a legally prohibited food production or operation activity? ",
+      "options": "A. Using food ingredients beyond their shelf life to produce food; B. Using food ingredients that have not undergone organic certification; C. Ordinary food with nutritional content slightly below recommended standards; D. Food with a production date that is slightly inaccurate but remains within its shelf life",
+      "correct_answer": "A",
+      "user_answer": "D. Food with a production date that is slightly inaccurate but remains within its shelf life"
+    },
+    {
+      "uid": "28400702",
+      "doc": "39 Postal Law of the People's Republic of China.txt",
+      "difficulty": "5",
+      "type": "single_choice",
+      "field": "Administrative Law and Procedure",
+      "is_correct": true,
+      "answered": true,
+      "question": "According to China's postal administration laws and regulations, under which of the following circumstances may specific state organs lawfully inspect or detain mail and require postal enterprises to provide user information? ",
+      "options": "A. When investigating unfair competition practices to maintain market order, by market regulatory authorities; B. When handling consumer complaints to protect consumer rights, by consumer associations; C. When public security organs, state security organs, or procuratorial organs lawfully perform their duties for national security or criminal investigation purposes; D. When higher education institutions or research institutes conduct academic research with the consent of postal enterprises",
+      "correct_answer": "C",
+      "user_answer": "C. When public security organs, state security organs, or procuratorial organs lawfully perform their duties for national security or criminal investigation purposes"
+    }
+  ]
+}
